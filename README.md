@@ -11,3 +11,6 @@ pip install .
 
 cd examples/text_to_image
 pip install -r requirements_sdxl.txt
+cd /content/diffusers/examples/controlnet
+```
+Run the "final_fine_tune_diffusion_model_controlnet.py" file. 
