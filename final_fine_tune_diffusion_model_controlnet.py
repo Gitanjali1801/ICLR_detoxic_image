@@ -1,6 +1,6 @@
 
 accelerate launch train_controlnet.py \
- --output_dir="ctrl_b_and_b_3_july_2025_2_condition" \
+ --output_dir="dir_name" \
  --pretrained_model_name_or_path="stabilityai/stable-diffusion-2-1-base" \
  --controlnet_model_name_or_path="your-anonymous-hf-model-id" \
  --dataset_name="your-anonymous-dataset-id" \
@@ -23,7 +23,7 @@ accelerate launch train_controlnet.py \
  --allow_tf32 \
  --mixed_precision="fp16" \
  --push_to_hub \
- --hub_model_id="ctrl_b_and_b_3_july_2025_2_condition"
+ --hub_model_id="dir_name"
 
 
 import diffusers
