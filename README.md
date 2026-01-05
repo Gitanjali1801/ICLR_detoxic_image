@@ -1,4 +1,4 @@
-This repository contains code and configuration for the paper titled **SPADE: SEMANTIC-PRESERVING ADAPTIVE DETOXIFICATION OF IMAGES** training and generating detoxified image variants using Sequential ControlNet, as part of our ICLR 2025 submission.
+This repository contains code and configuration for the paper titled **SPADE: SEMANTIC-PRESERVING ADAPTIVE DETOXIFICATION OF IMAGES** training and generating detoxified image variants using Sequential ControlNet, as part of our ARR January submission.
 
 ## 🔧 Setup
 
